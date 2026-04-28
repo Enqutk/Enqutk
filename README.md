@@ -39,12 +39,24 @@
 ## STATS.DASHBOARD
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Enqutk&show_icons=true&theme=github_dark_dimmed&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enqutk&layout=compact&theme=github_dark_dimmed&hide_border=true" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/LIVE%20PERFORMANCE%20METRICS-0D1117?style=for-the-badge&logo=githubactions&logoColor=00F72E&labelColor=000000" alt="Live Metrics" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Enqutk&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <img height="185" src="https://github-readme-stats.vercel.app/api?username=Enqutk&show_icons=true&theme=vision-friendly-dark&hide_border=true&rank_icon=github&bg_color=00000000" alt="GitHub Stats" />
+  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enqutk&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=00000000" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Enqutk&theme=highcontrast&hide_border=true&background=00000000&ring=00F72E&fire=00F72E&currStreakLabel=00F72E" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Enqutk&theme=onestar&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Enqutk&bg_color=00000000&color=00F72E&line=00F72E&point=8B949E&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
