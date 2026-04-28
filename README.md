@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:05070A,40:0B1220,100:000000&text=ENQUTK%20%2F%2F%20ROOT%20MODE&fontColor=00F72E&fontSize=42&fontAlignY=35&desc=Code%20in%20the%20dark.%20Ship%20with%20precision.&descAlignY=58&descAlign=50&descSize=15" alt="Dark Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:05070A,40:0B1220,100:000000&text=ENKU%20TADESSE%20%2F%2F%20ROOT%20MODE&fontColor=00F72E&fontSize=42&fontAlignY=35&desc=Code%20in%20the%20dark.%20Ship%20with%20precision.&descAlignY=58&descAlign=50&descSize=15" alt="Dark Header" />
 </p>
 
 <p align="center">
@@ -56,7 +56,7 @@
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/00F72E/Enqutk" alt="GitHub Contribution Grid" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Enqutk&bg_color=0d1117&color=c9d1d9&line=00F72E&point=8B949E&area=true&hide_border=true" alt="Live Contribution Graph" />
 </p>
 
 ---
