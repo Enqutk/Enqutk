@@ -66,7 +66,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Enqutk&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Projects" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Enqutk&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Projects" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Enqutk&theme=github_dark" alt="Contribution Details" />
 </p>
 
 ---
