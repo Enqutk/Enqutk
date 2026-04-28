@@ -56,7 +56,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Enqutk&bg_color=0d1117&color=c9d1d9&line=00F72E&point=8B949E&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.org/00F72E/Enqutk" alt="GitHub Contribution Grid" />
 </p>
 
 ---
