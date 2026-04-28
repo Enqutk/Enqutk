@@ -59,6 +59,16 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Enqutk&bg_color=0d1117&color=c9d1d9&line=00F72E&point=8B949E&area=true&hide_border=true" alt="Live Contribution Graph" />
 </p>
 
+## PROJECTS.BY.CONTRIBUTION
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TOP%20CONTRIBUTED%20REPOSITORIES-0D1117?style=for-the-badge&logo=github&logoColor=00F72E&labelColor=000000" alt="Top Contributed Repositories" />
+</p>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Enqutk&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Projects" />
+</p>
+
 ---
 
 <h3 align="center"><code>BUILDING BOLD IDEAS INTO REAL PRODUCTS</code></h3>
