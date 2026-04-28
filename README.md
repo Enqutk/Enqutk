@@ -1,7 +1,9 @@
-<h1 align="center">ENQUTK // DARK MODE</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:05070A,40:0B1220,100:000000&text=ENQUTK%20%2F%2F%20ROOT%20MODE&fontColor=00F72E&fontSize=42&fontAlignY=35&desc=Build%20in%20the%20dark.%20Ship%20with%20precision.&descAlignY=58&descAlign=50&descSize=15" alt="Dark Header" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2500&pause=700&color=C9D1D9&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Code.+Build.+Ship.;Performance+%7C+Scalability+%7C+Clean+Architecture;Always+Learning.+Always+Building." alt="Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=2500&pause=700&color=00F72E&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Code.+Build.+Ship.;Performance+%7C+Scalability+%7C+Clean+Architecture;Always+Learning.+Always+Building." alt="Typing Banner" />
 </p>
 
 <p align="center">
