@@ -73,6 +73,15 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Enqutk&repo=booking-system&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117&title_color=00F72E&text_color=c9d1d9&icon_color=00F72E" alt="Booking System Repo" />
 </p>
 
+<p align="left">
+
+- <strong><a href="https://github.com/Enqutk/EthioSphere_Tech">EthioSphere_Tech</a>:</strong> Tech-focused platform concept built to showcase modern product design and full-stack execution.
+- <strong><a href="https://github.com/Enqutk/ReadItOut">ReadItOut</a>:</strong> Reading and content utility project focused on clean UI, usability, and practical everyday workflows.
+- <strong><a href="https://github.com/Enqutk/Eventpulse">Eventpulse</a>:</strong> Event management experience for discovering, organizing, and tracking events with a smooth user flow.
+- <strong><a href="https://github.com/Enqutk/booking-system">booking-system</a>:</strong> Booking workflow app for handling reservations, schedules, and availability in an organized way.
+
+</p>
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Enqutk&theme=github_dark" alt="Contribution Details" />
 </p>
