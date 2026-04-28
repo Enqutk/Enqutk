@@ -66,7 +66,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Enqutk&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Projects" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Enqutk&repo=Enqutk&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117&title_color=00F72E&text_color=c9d1d9&icon_color=00F72E" alt="Featured Project" />
 </p>
 
 <p align="center">
