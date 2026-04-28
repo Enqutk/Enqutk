@@ -55,9 +55,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Enqutk&theme=matrix&no-frame=true&no-bg=false&margin-w=10&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Enqutk&bg_color=0d1117&color=c9d1d9&line=00F72E&point=8B949E&area=true&hide_border=true" alt="Live Contribution Graph" />
-</p>
+
 
 ## PROJECTS.BY.CONTRIBUTION
 
@@ -66,7 +64,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Enqutk&repo=Enqutk&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117&title_color=00F72E&text_color=c9d1d9&icon_color=00F72E" alt="Featured Project" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Enqutk&repo=EthioSphere_Tech&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117&title_color=00F72E&text_color=c9d1d9&icon_color=00F72E" alt="EthioSphere Tech Repo" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Enqutk&repo=ReadItOut&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117&title_color=00F72E&text_color=c9d1d9&icon_color=00F72E" alt="ReadItOut Repo" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Enqutk&repo=Eventpulse&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117&title_color=00F72E&text_color=c9d1d9&icon_color=00F72E" alt="Eventpulse Repo" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Enqutk&repo=booking-system&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117&title_color=00F72E&text_color=c9d1d9&icon_color=00F72E" alt="Booking System Repo" />
 </p>
 
 <p align="center">
