@@ -43,20 +43,20 @@
 </p>
 
 <p align="center">
-  <img height="185" src="https://github-readme-stats.vercel.app/api?username=Enqutk&show_icons=true&theme=vision-friendly-dark&hide_border=true&rank_icon=github&bg_color=00000000" alt="GitHub Stats" />
-  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enqutk&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=00000000" alt="Top Languages" />
+  <img height="185" src="https://github-readme-stats.vercel.app/api?username=Enqutk&show_icons=true&theme=vision-friendly-dark&hide_border=true&rank_icon=github&bg_color=0d1117&title_color=00F72E&text_color=c9d1d9&icon_color=00F72E" alt="GitHub Stats" />
+  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enqutk&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117&title_color=00F72E&text_color=c9d1d9" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Enqutk&theme=highcontrast&hide_border=true&background=00000000&ring=00F72E&fire=00F72E&currStreakLabel=00F72E" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Enqutk&theme=highcontrast&hide_border=true&background=0D1117&ring=00F72E&fire=00F72E&currStreakLabel=00F72E&sideNums=C9D1D9&currStreakNum=C9D1D9&dates=8B949E" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Enqutk&theme=onestar&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Enqutk&theme=matrix&no-frame=true&no-bg=false&margin-w=10&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Enqutk&bg_color=00000000&color=00F72E&line=00F72E&point=8B949E&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Enqutk&bg_color=0d1117&color=c9d1d9&line=00F72E&point=8B949E&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
